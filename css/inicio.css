@@ -1,0 +1,8 @@
+#main-menu {
+	left: unset;
+	right: 0 !important;
+}
+
+#ordenar-genero {
+	cursor: pointer !important;
+}
